@@ -1,8 +1,6 @@
 # MachineLearning_KNN_Algorithm
 
 Machine Learning
-
-
 Name: Ashwin Babu
 
 Programming Language Used: Python 3.6, Inc.
@@ -13,7 +11,7 @@ Consider the problem where we want to predict the gender of a person from a set 
 CODE STRUCTURE
 -----------------
 1. Program: 
-KNN_algorithm.py --> Knn with 3 parameters: Height, Weight and Age.
+KNN_algorithm.py -——> Knn with 3 parameters: Height, Weight and Age.
 
 2. The training dataset can be entered in a csv file named gender.csv. The program will split the data into test data and training data, for calculating accuracy.
 
@@ -26,4 +24,6 @@ HOW TO RUN THE CODE
 Command
 -------
 Make sure you have gender.csv file in the same folder as the code.
+
 python filename.py
+
