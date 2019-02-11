@@ -17,7 +17,7 @@ KNN_algorithm.py --> Knn with 3 parameters: Height, Weight and Age.
 
 2. The training dataset can be entered in a csv file named gender.csv. The program will split the data into test data and training data, for calculating accuracy.
 
-3. The user will be asked to input k value for KNN, then the predicted class will be displayed.\
+3. The user will be asked to input k value for KNN, then the predicted class will be displayed.
 
 --------------------
 HOW TO RUN THE CODE
